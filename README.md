@@ -26,6 +26,8 @@ For two years I did research on AI and emerging technologies from an [Action Tan
 ![myImage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrV61FTTLAR2fTq2brjMQZyBHphOcAcCrmMLytFS_tgLakSEKx0bkZPfhDXp6Aqi1wdD8&usqp=CAU)
 
 <valeriatafoya.dv@gmail.com> 
+### I also like hackathons
+[🔗](https://www.milenio.com/politica/comunidad/participa-ibero-leon-cumbre-inteligencia-artificial)<img src="https://images.milenio.com/j_6hyoo7Fq_J9deNe-VltlHWyos=/958x596/uploads/media/2020/02/09/foto-especial-717.jpg" width="200" height="150">
 
 # More about my content and my work:
 
