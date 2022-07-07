@@ -2,7 +2,9 @@
 ### I am Valeria 👋    
  
 ⚡ Passionate about the intersection between technology, science, art and society!
+
 🌱 Learning is my #1 hobby. Specially when it is about data visualizations, Human centered AI, data science, and books
+
 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs and daily data science tips.
 
 # My professional experience 
@@ -15,7 +17,7 @@ For two years I did research on AI and emerging technologies from an [Action Tan
 	* [The National AI Agenda for Mexico](https://www.ia2030.mx/agenda2020)
 * AI and Machine Learning
 	* AI for remote lab testing using OpenCV and YOLO for a [Brazilian healthtech startup](https://hilab.com.br/)
-	* Currently involved in a Machine Learning Trainee program for an [IT Services and IT Consulting company in Brazil](https://www.wises.com.br/);
+	* Currently involved in a Machine Learning Trainee program for an [IT Services and IT Consulting company in Brazil](https://www.wises.com.br/)
 * Democratizing technology
 	* Currently contributing to the Democratizing innovation in the Americas initiative of the [OAS](https://www.oas.org/en/).
 
