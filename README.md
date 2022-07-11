@@ -5,7 +5,7 @@
 
 🌱 Learning is my #1 hobby. Specially when it is about data visualizations, Human centered AI, data science, and books
 
-🌍 I am currently sharing a little bit of my knowledge to the world through my blogs and daily data science tips.
+🌍 I am currently sharing a little bit of my knowledge to the world through my blogs and projects.
 
 # My professional experience 
 * **Tech policy:**
