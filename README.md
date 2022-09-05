@@ -3,7 +3,7 @@
  
 ⚡ Passionate about the intersection between technology, science, art and society!
 
-🌱 Learning is my #1 hobby. Specially when it is about data visualizations, Human centered AI, data science, and books
+🌱 Learning is my #1 hobby. Specially when it is about AI, data science, learning itself and books
 
 🌍 I am currently sharing a little bit of my knowledge to the world through my blogs and projects.
 
