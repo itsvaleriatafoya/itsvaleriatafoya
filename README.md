@@ -21,7 +21,7 @@ For two years I did research on AI and emerging technologies from an [Action Tan
 * Democratizing technology
 	* Currently contributing to the Democratizing innovation in the Americas initiative of the [OAS](https://www.oas.org/en/).
 
-# Want to chat?, send an e mail!
+# This was last updated in October 2022. Want to chat?, send an e mail!
 
 ![myImage](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrV61FTTLAR2fTq2brjMQZyBHphOcAcCrmMLytFS_tgLakSEKx0bkZPfhDXp6Aqi1wdD8&usqp=CAU)
 
